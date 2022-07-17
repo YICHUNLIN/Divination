@@ -32,3 +32,13 @@
 
 1. ./data/8base.json
 2. ./data/64base.json
+
+
+# Api
+
+> http{s}://{ip}:{port}/api/v1/{method}
+
+* methods
+  * GET /64/code?c1={}&c2={}
+  * c1為上卦, ex 010 艮
+  * c2為下卦, ex 101 離
