@@ -42,3 +42,5 @@
   * GET /64/code?c1={}&c2={}
   * c1為上卦, ex 010 艮
   * c2為下卦, ex 101 離
+
+> 測試用 https://divination.kmn.tw/api/v1/64/code?c1=010&c2=101
